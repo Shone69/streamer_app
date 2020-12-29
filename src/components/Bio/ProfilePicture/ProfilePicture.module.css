@@ -1,0 +1,10 @@
+.Profile img {
+    width: 30%;
+    height: 30%;
+    border-radius: 50%;
+    position: relative;
+    float: left;
+    margin: -100px 50px 100px 20px;
+    z-index: 999;
+    border: solid 10px black;
+}

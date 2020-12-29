@@ -1,0 +1,11 @@
+.About {
+    margin-left: 10px;
+    box-sizing: border-box;
+    text-align: left;
+    width: 70%;
+    height: 30%;
+}
+
+.About p {
+    color:rgb(32, 32, 32);
+}
