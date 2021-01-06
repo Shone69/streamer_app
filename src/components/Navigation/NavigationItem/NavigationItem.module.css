@@ -1,0 +1,25 @@
+.NavigationItem {
+    float: left;
+    margin: 10px 0;
+    box-sizing: border-box;
+    display: block;
+}
+
+.NavigationItem a {
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    display: block;
+    box-sizing: border-box;
+    padding: 14px 16px;
+}
+
+.NavigationItem a:hover,
+.NavigationItem a:active,
+.NavigationItem a.active {
+    color: red;
+}
+
+.NavigationItem a:hover {
+    background-color: rgb(19, 18, 18);
+}

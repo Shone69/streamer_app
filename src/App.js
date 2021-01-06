@@ -1,9 +1,12 @@
 import './App.css';
 import Bio from './components/Bio/Bio'
+import Layout from './components/Layout/Layout';
 
 function App() {
   return (
-    <Bio></Bio>
+    <Layout>
+      <Bio></Bio>
+    </Layout>
   );
 }
 

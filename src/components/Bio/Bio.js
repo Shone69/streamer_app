@@ -12,7 +12,7 @@ import sound from '../../assets/audio.mp3';
 class Bio extends Component {
     audio = new Audio(sound);
     state = {
-        show: true,
+        show: false,
         play: false
     }
 
@@ -27,7 +27,7 @@ class Bio extends Component {
     }
     
     pause = () => {
-        this.setState({ show: false, play: false, pause: true });
+        this.setState({ show: false, play: false });
         this.audio.pause();
     }
 
