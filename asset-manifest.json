@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9b7d5714.chunk.css",
+    "main.js": "/static/js/main.f8c71073.chunk.js",
+    "main.js.map": "/static/js/main.f8c71073.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.cfef3f1f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.cfef3f1f.js.map",
+    "static/js/2.78d99aea.chunk.js": "/static/js/2.78d99aea.chunk.js",
+    "static/js/2.78d99aea.chunk.js.map": "/static/js/2.78d99aea.chunk.js.map",
+    "static/js/3.f7b68741.chunk.js": "/static/js/3.f7b68741.chunk.js",
+    "static/js/3.f7b68741.chunk.js.map": "/static/js/3.f7b68741.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.9b7d5714.chunk.css.map": "/static/css/main.9b7d5714.chunk.css.map",
+    "static/js/2.78d99aea.chunk.js.LICENSE.txt": "/static/js/2.78d99aea.chunk.js.LICENSE.txt",
+    "static/media/audio.9c7cdd02.mp3": "/static/media/audio.9c7cdd02.mp3",
+    "static/media/newyear.e646bd4b.jpg": "/static/media/newyear.e646bd4b.jpg",
+    "static/media/profile.83603a43.jpg": "/static/media/profile.83603a43.jpg",
+    "static/media/shone.65b87641.png": "/static/media/shone.65b87641.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cfef3f1f.js",
+    "static/js/2.78d99aea.chunk.js",
+    "static/css/main.9b7d5714.chunk.css",
+    "static/js/main.f8c71073.chunk.js"
+  ]
+}
